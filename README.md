@@ -1,2 +1,1 @@
-# SlavaSuba.github.io
-«Сайт визитка HTML, CSS»
+# SlavaSuba.github.io «Сайт визитка HTML, CSS»
